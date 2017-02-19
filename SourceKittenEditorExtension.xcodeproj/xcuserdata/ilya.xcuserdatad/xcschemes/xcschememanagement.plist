@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>SourceKittenEditorExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>SourceKittenEditorExtensionApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>SourceKittenEditorExtensionService.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>09615CD81E5A25CB0058291E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>09615CEC1E5A26340058291E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>09615D031E5A26D90058291E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>09615D311E5A2A670058291E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
