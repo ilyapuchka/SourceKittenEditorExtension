@@ -1,0 +1,6 @@
+opt_in_rules:
+  - empty_count
+  - valid_docs
+
+excluded:
+  - Carthage
